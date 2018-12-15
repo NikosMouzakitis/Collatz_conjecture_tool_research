@@ -1,3 +1,7 @@
+/*
+	You can find the theory of the calculating results in this on work article.
+	https://medium.com/@tp4460/theory-developed-on-the-collatz-conjecture-on-work-79442e447240
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
